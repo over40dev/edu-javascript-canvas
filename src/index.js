@@ -1,5 +1,5 @@
-import currFunc from './basics';
-currFunc();
+import game from './crossing-game';
+game();
 
 // import Phaser from "phaser";
 // import logoImg from "./assets/logo.png";
